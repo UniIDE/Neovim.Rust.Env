@@ -1,0 +1,7 @@
+type=Kickstart #NvChad
+
+external_drive=shuttle
+
+bac=/mnt/chromeos/removable/$external_drive/Dev/bac
+
+artifact=/mnt/chromeos/removable/$external_drive/Dev/build/artifact
